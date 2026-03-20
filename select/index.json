@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "MERA MERA",
+  "base_artist": "Mori Calliope",
+  "createdAt": "2026-03-20T09:39:39.748831Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mera Mera",
+      "artist": "Naveed Akhtar",
+      "has_synced": false,
+      "path": "select/01_Mera_Mera_Naveed_Akhtar.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mi Mera Mera",
+      "artist": "Dollar Selmouni feat. Kvinz",
+      "has_synced": true,
+      "path": "select/02_Mi_Mera_Mera_Dollar_Selmouni_feat._Kvinz.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mi Mera Mera",
+      "artist": "Dollar Selmouni/Kvinz",
+      "has_synced": true,
+      "path": "select/03_Mi_Mera_Mera_Dollar_Selmouni_Kvinz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "La Mera Mera",
+      "artist": "La Arrolladora Banda el Limón de René Camacho",
+      "has_synced": true,
+      "path": "select/04_La_Mera_Mera_La_Arrolladora_Banda_el_Limón_de_René_Camacho.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "La Mera Mera (Tijuana, Baja California Norte)",
+      "artist": "Juan Gabriel & Los Tucanes de Tijuana",
+      "has_synced": true,
+      "path": "select/05_La_Mera_Mera_(Tijuana,_Baja_California_Norte)_Juan_Gabriel_&_Los_Tucanes_de_Tijuana.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mera Mera",
+      "artist": "Knogjärn",
+      "has_synced": false,
+      "path": "select/06_Mera_Mera_Knogjärn.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La Mera Mera (Tijuana, Baja California Norte)",
+      "artist": "Juan Gabriel",
+      "has_synced": true,
+      "path": "select/07_La_Mera_Mera_(Tijuana,_Baja_California_Norte)_Juan_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mi Mera Mera",
+      "artist": "Dollar Selmouni",
+      "has_synced": true,
+      "path": "select/08_Mi_Mera_Mera_Dollar_Selmouni.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mera Mera",
+      "artist": "Knogjärn",
+      "has_synced": false,
+      "path": "select/09_Mera_Mera_Knogjärn.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mera mera mera",
+      "artist": "EMIL HENROHN",
+      "has_synced": true,
+      "path": "select/10_Mera_mera_mera_EMIL_HENROHN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "La Mera Mera",
+      "artist": "Gerardo Coronel",
+      "has_synced": true,
+      "path": "select/11_La_Mera_Mera_Gerardo_Coronel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "MERA MERA",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/12_MERA_MERA_Mori_Calliope.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "MERA MERA",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/13_MERA_MERA_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Mi Mera Mera  (Live Session)",
+      "artist": "Dollar Selmouni",
+      "has_synced": true,
+      "path": "select/14_Mi_Mera_Mera_(Live_Session)_Dollar_Selmouni.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "La Mera Mera",
+      "artist": "La Arrolladora Banda El Limon",
+      "has_synced": true,
+      "path": "select/15_La_Mera_Mera_La_Arrolladora_Banda_El_Limon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MERA MERA",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/pl_01_MERA_MERA_Mori_Calliope.txt"
+    }
+  ]
+}
