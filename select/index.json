@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "MERA MERA",
   "base_artist": "Mori Calliope",
-  "createdAt": "2026-03-20T09:39:39.748831Z",
+  "createdAt": "2026-03-20T09:46:05.262401Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "Mori Calliope",
       "has_synced": false,
       "path": "select/pl_01_MERA_MERA_Mori_Calliope.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "MERA MERA",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/localdb_01_MERA_MERA_Mori_Calliope.txt",
+      "repo_name": "DOzpsXZS-j0"
     }
   ]
 }
